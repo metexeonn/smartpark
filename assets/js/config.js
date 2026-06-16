@@ -1,0 +1,4 @@
+
+const CONFIG = {
+    PLATE_RECOGNIZER_TOKEN: '8e6cdbc060a087f3de80a69c097d4caaf9a3d1c2'
+};
